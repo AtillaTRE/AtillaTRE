@@ -6,7 +6,7 @@
 </h1>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/atilla-teixeira-0573a9167/">
+  <a href="www.linkedin.com/in/atilla-teixeira-reis-0573a9167">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
@@ -25,7 +25,7 @@
 - I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 - :telescope: I’m working as a data reliability engineer and contributing to data pipeline creation ensuring data delivery between servers and databases.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Atilla-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atilla-teixeira-reis-0573a9167/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Atilla-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/atilla-teixeira-reis-0573a9167)
 
 ---
 
